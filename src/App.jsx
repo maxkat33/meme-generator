@@ -8,9 +8,7 @@ const App = () => {
   return (
     <div>
       <Header />
-      <div className='hero'>
-        <Meme />
-      </div>
+      <Meme />
     </div>
   )
 }
